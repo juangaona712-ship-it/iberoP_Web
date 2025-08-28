@@ -7,9 +7,9 @@
 
 ## 1) Resumen
 
-- **Nombre del proyecto:** _Mi Proyecto_  
-- **Equipo / Autor(es):** _Nombre(s)_  
-- **Curso / Asignatura:** _Nombre del curso_  
+- **Nombre del proyecto:** _Bitacora_  
+- **Equipo / Autor(es):** _Juan Manuel Gaona Serrano_  
+- **Curso / Asignatura:** _Introducciòn a la mecatronica_  
 - **Fecha:** _DD/MM/AAAA_  
 - **Descripción breve:** _Una o dos líneas que expliquen qué hace y por qué._
 
